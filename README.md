@@ -2,6 +2,8 @@
 
 ## Grupo CBBCCC4
 
+[![WEB-SCRAPING.jpg](https://i.postimg.cc/8PxQMktH/WEB-SCRAPING.jpg)](https://postimg.cc/ykhbzKqg)
+
 ## Integrantes:
 
 -Bustos Jonathan Nicolas
